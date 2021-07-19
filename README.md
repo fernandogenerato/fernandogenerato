@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandogenerato&label=Profile%20views&color=0e75b6&style=flat" alt="fernandogenerato" /> </p>
 
-- 🌱 I’m currently learning **Design Patterns, AWS, Kafka, Cucumber and MongoDB**
-
 - 💬 Ask me about **Java / Spring**
 
 - 📫 How to reach me **generatof@gmail.com**
