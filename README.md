@@ -4,7 +4,7 @@ I'm Fernando, from Brazil, holding a Bachelor's degree in Information Systems fr
 
 ## Experience
 
-- **Backend Development**: I have solid experience in developing backend applications using Java and Golang.
+- **Backend Development**: I have solid experience in developing backend applications using Java, Golang and Kotlin.
 - **Software Architecture**: I have designed and implemented scalable and robust architectures for various projects.
 - **Database Management**: I have experience working with relational, non-relational, and big data databases, including MySQL, PostgreSQL, MongoDB, Redis, and BigQuery.
 - **RESTful APIs**: I have developed and consumed RESTful APIs, following best practices for design and security.
